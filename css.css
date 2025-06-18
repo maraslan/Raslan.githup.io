@@ -1,0 +1,142 @@
+body{
+
+    size: none;
+
+}
+
+p{
+    direction: rtl;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    
+}
+
+.header{
+
+    overflow: hidden;
+    position: fixed;
+    height: 150px;
+    width: 98.5%;
+    border: 2px white solid;
+    margin-top: -20px;/*
+    background-image: url("image/background\ 2.jpeg") ;*/
+    background-color: rgba(48, 68, 68, 0.452);
+    line-height: 1px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    align-items: center;
+    z-index: 1;
+
+}
+
+.facebook{
+
+    color: hwb(113 10% 20%);
+    font-family: 'Times New Roman', Times, serif;
+    direction: ltr;
+    text-align: left;
+    font-size: 25px;
+    
+}
+
+.link{
+
+    line-height : 5px;
+    text-align: left; 
+    
+
+}
+a:hover{
+
+    font-size: 35px;
+    
+
+}
+.pg{
+     /*stop
+    background-image: url(image/bg03.jpg);*/
+    color: rgb(240, 245, 255);
+    border: 2px solid;
+    padding-top: 150px;
+    padding-right: 10px;
+    
+}
+
+.name{
+
+    color: rgb(243, 245, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    text-align:center;
+    
+}
+
+body{
+    
+    background-color: rgb(81, 95, 218);
+    background-repeat: no-repeat;
+    background-size: 1500px ;
+    background-attachment: fixed;
+    background-image: url(image/bg01.jpg);
+    
+}
+.bussines{
+    border-radius: 90%;
+    border: 2px black solid;
+    overflow: hidden;
+    width: 250px;
+    height: 250px;
+    margin-right: 145px;
+    margin-top: 100px;
+    position: relative;
+    display: inline-block;
+
+    }
+.bussines img{
+    height: 250px;
+}
+.email{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border: 2px black solid;
+    background-color: black;
+    position: absolute;
+    overflow: hidden;
+    margin-right: 20px;
+    
+}
+.catalog{
+    border-radius: 90%;
+    border: 2px black solid;
+    overflow: hidden;
+    width: 250px;
+    height: 250px;
+    margin-right: 145px;
+    margin-top: 100px;
+    position: relative;
+    display: inline-block;
+}
+.catalog img{
+    height: 250px;
+}
+.idea{
+    border-radius: 90%;
+    border: 2px black solid;
+    overflow: hidden;
+    width: 250px;
+    height: 250px;
+    margin-right: 145px;
+    margin-top: 100px;
+    position: relative;
+    display: inline-block;
+ 
+}
+.idea img{
+    height: 250px;
+}
+.space{
+    width: 100%;
+    height: 130px;
+}

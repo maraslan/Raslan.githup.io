@@ -1,0 +1,45 @@
+.header{
+
+    height: 150px;
+    border: 2px white solid;
+    margin-top: -20px;
+    background-image: url("image/header.jpg") ;
+    background-color: aqua;
+    line-height: 1px;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+
+}
+.name{
+    color: rgb(243, 245, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    text-align: center;
+
+}
+body{
+    background-image: url(image/background2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px ;
+    background-attachment: fixed;
+}
+.pg{
+    border: 1px rgb(235, 7, 7) solid;
+    color: azure;
+    background-color: rgb(3, 3, 3);
+    
+    
+}
+p{
+    direction: rtl;
+    text-align: right;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
+.link{
+    line-height : 5px;
+    text-align: left; 
+}

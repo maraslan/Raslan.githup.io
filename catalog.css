@@ -1,0 +1,81 @@
+.header{
+
+    overflow: hidden;
+    position: fixed;
+    height: 150px;
+    width: 98.5%;
+    border: 2px white solid;
+    margin-top: -20px;/*
+    background-image: url("image/background\ 2.jpeg") ;*/
+    background-color: rgba(48, 68, 68, 0.452);
+    line-height: 1px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    align-items: center;
+    z-index: 1;
+
+
+}
+.name{
+    color: rgb(243, 245, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    text-align: center;
+
+}
+body{
+    background-image: url(image/background2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px ;
+    background-attachment: fixed;
+}
+.pg{
+    border: 1px rgb(235, 7, 7) solid;
+    color: azure;
+    background-color: rgb(3, 3, 3);
+    display: inline-block;
+    width: 93%;
+    padding: 50px;
+    padding-top: 200PX;
+}
+p{
+    direction: rtl;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
+.link{
+    line-height : 5px;
+    text-align: left; 
+
+}
+.image{
+    border: 2px rgb(207, 233, 91) solid;
+    border-radius: 12%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 200px ;
+    height: 350px;
+    display: inline-block;
+    margin: 20px;
+    overflow: hidden;
+
+}
+
+.test{
+    width: 200px;
+    height: 350px;
+
+}
+.email{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border: 2px black solid;
+    background-color: black;
+    position: absolute;
+    overflow: hidden;
+    margin-right: 20px;
+    
+}
